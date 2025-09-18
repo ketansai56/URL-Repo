@@ -26,7 +26,6 @@ https://alertmng-prod-gcp.gdn-app.com/
 https://grafana-prod-gcp.gdn-app.com/login
 https://grafana-nirvana.gdn-app.com/
 https://skywalking-prod-gcp.gdn-app.com/
-https://console.cloud.google.com/
 https://prodjenkins-gcp.gdn-app.com/
 https://logging-prod-gcp.gdn-app.com/
 https://logging-prod-infra-gcp.gdn-app.com/
