@@ -34,3 +34,4 @@ https://blibli-rundeck.gdn-app.com/
 https://seller-rundeck.gdn-app.com/
 https://jasper-gcp.gdn-app.com/jasperserver/
 https://jasper-report-ops.gdn-app.com/jasperserver/
+https://console.cloud.google.com/
